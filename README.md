@@ -50,3 +50,9 @@ https://www.linkedin.com/pulse/several-ways-use-runif-henry-trunghieu-tu/
 
 5.	mutate function - RDocumentation. (n.d.). https://www.rdocumentation.org/packages/dplyr/versions/0.5.0/topics/mutate
 
+---
+## License
+
+This dataset is provided under the MIT License.
+
+---
